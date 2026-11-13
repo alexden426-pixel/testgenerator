@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="cream">#FAF5EC</color>
+    <color name="green">#2F5D50</color>
+    <color name="mustard">#E3A63B</color>
+    <color name="ink">#2A2A28</color>
+    <color name="muted">#7A766D</color>
+    <color name="line">#E6DFD0</color>
+    <color name="ok_bg">#DDEBDD</color>
+    <color name="ok_line">#4C8C5A</color>
+    <color name="bad_bg">#F6DAD3</color>
+    <color name="bad_line">#C0553E</color>
+</resources>
